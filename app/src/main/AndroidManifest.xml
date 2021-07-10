@@ -10,7 +10,8 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.KotlinApplication">
-        <activity android:name="mtj.example.RXJavaConcept.RxSubjectActivity"></activity>
+        <activity android:name="mtj.example.RXJavaConcept.RXBindingActivity"></activity>
+        <activity android:name="mtj.example.RXJavaConcept.RxSubjectActivity" />
         <activity android:name="mtj.example.RXJavaConcept.skipFilterConatActivity" />
         <activity android:name="mtj.example.RXJavaConcept.RXActivity" />
         <activity android:name="mtj.example.dagger2.model.DaggerActivity" />

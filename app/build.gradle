@@ -61,4 +61,7 @@ dependencies {
     implementation "com.google.dagger:dagger-android:2.37"
     kapt "com.google.dagger:dagger-android-processor:2.37"
 
+    implementation 'com.jakewharton.rxbinding4:rxbinding:4.0.0'
+
+
 }

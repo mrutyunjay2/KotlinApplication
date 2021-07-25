@@ -116,4 +116,8 @@ class skipFilterConatActivity : AppCompatActivity() {
         arrylistStu.add(s5)
         return arrylistStu
     }
+
+    fun getIdeas():Boolean{
+        return false;
+    }
 }
